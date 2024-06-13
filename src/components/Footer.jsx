@@ -1,8 +1,9 @@
 import React from "react";
-import logo from '../assets/logo.png'
+import logo from '../assets/logo1.png'
 import facebook from '../assets/social/facebook.png'
 import twitter from '../assets/social/twitter.png'
 import youtube from '../assets/social/youtube.png'
+import Nav from "react-bootstrap/Nav";
 export default function Footer(){
     return(
         <>
@@ -14,7 +15,7 @@ export default function Footer(){
                         <input type="email" className="form-control-lg" style={{width: 700}} id="exampleInputEmail1"/>
                     </div>
                     <div>
-                        <button className="btn btn-outline-primary" type="submit">Subscribe</button>
+                        <button className="btn btn-outline-primary text-white" type="submit">Subscribe</button>
                     </div>
                 </div>
                 <hr />
@@ -46,7 +47,9 @@ export default function Footer(){
                                 <ul style={{listStyle: 'none', textAlign: "left", marginLeft: -10}}>
                                     <li>About Us</li>
                                     <hr />
-                                    <li>Delivery Information</li>
+                                    <li>
+                                      <Nav.Link href="/faq">FAQs</Nav.Link>
+                                    </li>
                                     <hr />
                                     <li>Privacy Policy</li>
                                     <hr />
