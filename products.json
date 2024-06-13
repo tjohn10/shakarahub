@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Adire 1",
+    "description": "This is a new type of adire for your favorite usage",
+    "price": 20000,
+    "image": "../src/assets/products/1.png",
+    "vendor": "Vendor 1"
+  },
+  {
+    "id": 2,
+    "name": "Adire 2",
+    "description": "This is a new type of adire for your favorite usage",
+    "price": 20000,
+    "image": "../src/assets/products/2.png",
+    "vendor": "Vendor 2"
+  },
+  {
+    "id": 3,
+    "name": "Adire 1",
+    "description": "This is a new type of adire for your favorite usage",
+    "price": 20000,
+    "image": "../src/assets/products/3.png",
+    "vendor": "Vendor 1"
+  },
+  {
+    "id": 4,
+    "name": "Adire 1",
+    "description": "This is a new type of adire for your favorite usage",
+    "price": 20000,
+    "image": "../src/assets/products/4.png",
+    "vendor": "Vendor 1"
+  },
+  {
+    "id": 5,
+    "name": "Adire 1",
+    "description": "This is a new type of adire for your favorite usage",
+    "price": 20000,
+    "image": "../src/assets/products/5.png",
+    "vendor": "Vendor 1"
+  },
+  {
+    "id": 6,
+    "name": "Adire 1",
+    "description": "This is a new type of adire for your favorite usage",
+    "price": 20000,
+    "image": "../src/assets/products/1.png",
+    "vendor": "Vendor 1"
+  },
+  {
+    "id": 7,
+    "name": "Adire 1",
+    "description": "This is a new type of adire for your favorite usage",
+    "price": 20000,
+    "image": "../src/assets/products/2.png",
+    "vendor": "Vendor 1"
+  },
+  {
+    "id": 8,
+    "name": "Adire 1",
+    "description": "This is a new type of adire for your favorite usage",
+    "price": 20000,
+    "image": "../src/assets/products/2.png",
+    "vendor": "Vendor 10"
+  },
+  {
+    "id": 9,
+    "name": "Adire 1",
+    "description": "This is a new type of adire for your favorite usage",
+    "price": 20000,
+    "image": "../src/assets/products/1.png",
+    "vendor": "Vendor 10"
+  },
+  {
+    "id": 10,
+    "name": "Adire 1",
+    "description": "This is a new type of adire for your favorite usage",
+    "price": 20000,
+    "image": "../src/assets/products/1.png",
+    "vendor": "Vendor 1-"
+  },
+  {
+    "id": 11,
+    "name": "Adire 1",
+    "description": "This is a new type of adire for your favorite usage",
+    "price": 20000,
+    "image": "../src/assets/products/1.png",
+    "vendor": "Vendor 11"
+  },
+  {
+    "id": 12,
+    "name": "Adire 1",
+    "description": "This is a new type of adire for your favorite usage",
+    "price": 20000,
+    "image": "../src/assets/products/1.png",
+    "vendor": "Vendor 12"
+  }
+]
